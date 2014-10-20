@@ -1,5 +1,5 @@
 Autoloot for EasyUO
-
+```
 set %loot DCI_POF_SJG_CUD_IJG_HSF_RVH_FZH_NZH_UJG_FWL_GEJ_FHJ
 set %goldContainer LZZHMMD
 
@@ -66,3 +66,4 @@ repeat
 until #findcnt = 0 || %lootOverTime < #scnt
 }
 return
+```
