@@ -1,4 +1,4 @@
-This script allows you to set 2 bow's id and swap these bows via pressing one button. It's very useful against Luxor's or other top class monsters. I'm using it to drain all stamina from monsters with Dread Bow and after swap with Arian for 3-4 shots. 
+This script allows you to set 2 bow's id and swap these bows via pressing one button. It's very useful against Luxor's or other top class monsters. I'm using it to drain all stamina from monsters with Dread Bow and after swap with Arian for 3-4 shots. The script will only for for <strong>Archers</strong>
 
 ```
 ;------ BOW ----------
